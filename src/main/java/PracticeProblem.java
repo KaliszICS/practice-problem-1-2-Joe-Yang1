@@ -15,6 +15,7 @@ public class PracticeProblem {
 	int num3 = 3;
 
 	System.out.println(num1 + num2 + num3);
+	System.out.println(num1 * num2 * num3);
 	}
 
 	public static void q2() {
@@ -49,8 +50,9 @@ public class PracticeProblem {
 	public static void q5() {
 		//Write question 5 code here
 	int num1 = 5;
-	int answer = num1 + 3;
-	System.out.println (answer);
+	double num2 = 3.5;
+
+	System.out.println (num1 + num2);
 	
 	}
 
